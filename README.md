@@ -7,6 +7,7 @@
 #Table Of Contents
 
 |No.|Category|Link To Catalogue|
+|---|--------|-----------------|
 |1.|Alphabetic Patterns|<a href="Add Link To README"><img align="" alt="Patterns" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/Catalogue.png" /></a>|
 |2.|Numeric Patterns|<a href="Add Link To README"><img align="" alt="Patterns" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/Catalogue.png" /></a>|
 |3.|Symbol Patterns|<a href="Add Link To README"><img align="" alt="Patterns" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/Catalogue.png" /></a>|
