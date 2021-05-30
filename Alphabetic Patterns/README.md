@@ -61,7 +61,7 @@
 |57.|![1]()|<a href="LINK TO ISSUE"><img align="" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/contribute-button.png" /></a>|
 |58.|![1]()|<a href="LINK TO ISSUE"><img align="" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/contribute-button.png" /></a>|
 |59.|![1]()|<a href="LINK TO ISSUE"><img align="" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/contribute-button.png" /></a>|
-|60.|![1]()|<a href="LINK TO ISSUE"><img align="" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/contribute-button.png" /></a>
+|60.|![1]()|<a href="LINK TO ISSUE"><img align="" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/contribute-button.png" /></a>|
 |61.|![1]()|<a href="LINK TO ISSUE"><img align="" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/contribute-button.png" /></a>|
 |62.|![1]()|<a href="LINK TO ISSUE"><img align="" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/contribute-button.png" /></a>|
 |63.|![1]()|<a href="LINK TO ISSUE"><img align="" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/contribute-button.png" /></a>|
@@ -157,6 +157,16 @@
 |153.|![1]()|<a href="LINK TO ISSUE"><img align="" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/contribute-button.png" /></a>|
 |154.|![1]()|<a href="LINK TO ISSUE"><img align="" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/contribute-button.png" /></a>|
 |155.|![1]()|<a href="LINK TO ISSUE"><img align="" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/contribute-button.png" /></a>|
+|156.|![1]()|<a href="LINK TO ISSUE"><img align="" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/contribute-button.png" /></a>|
+|157.|![1]()|<a href="LINK TO ISSUE"><img align="" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/contribute-button.png" /></a>|
+|158.|![1]()|<a href="LINK TO ISSUE"><img align="" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/contribute-button.png" /></a>|
+|159.|![1]()|<a href="LINK TO ISSUE"><img align="" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/contribute-button.png" /></a>|
+|160.|![1]()|<a href="LINK TO ISSUE"><img align="" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/contribute-button.png" /></a>|
+|161.|![1]()|<a href="LINK TO ISSUE"><img align="" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/contribute-button.png" /></a>|
+|162.|![1]()|<a href="LINK TO ISSUE"><img align="" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/contribute-button.png" /></a>|
+|163.|![1]()|<a href="LINK TO ISSUE"><img align="" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/contribute-button.png" /></a>|
+|164.|![1]()|<a href="LINK TO ISSUE"><img align="" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/contribute-button.png" /></a>|
+|165.|![1]()|<a href="LINK TO ISSUE"><img align="" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/contribute-button.png" /></a>|
 |166.|![1]()|<a href="LINK TO ISSUE"><img align="" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/contribute-button.png" /></a>|
 |167.|![1]()|<a href="LINK TO ISSUE"><img align="" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/contribute-button.png" /></a>|
 |168.|![1]()|<a href="LINK TO ISSUE"><img align="" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/contribute-button.png" /></a>|
@@ -183,7 +193,6 @@
 |189.|![1]()|<a href="LINK TO ISSUE"><img align="" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/contribute-button.png" /></a>|
 |190.|![1]()|<a href="LINK TO ISSUE"><img align="" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/contribute-button.png" /></a>|
 |191.|![1]()|<a href="LINK TO ISSUE"><img align="" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/contribute-button.png" /></a>|
-
 
 
 
