@@ -8,7 +8,7 @@ for i in range (math.ceil(len(pattern_string)/num)) :
   for j in range (num):
     try:
       print(pattern_string[index], end=' ')
-      index+ = 1
+      index+= 1
     except:
       print(' ', end ='')  
   print(end ='\n')
