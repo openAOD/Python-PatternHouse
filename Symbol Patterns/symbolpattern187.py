@@ -16,4 +16,4 @@ for i in range(0, height):
                 print("*", end="")
             else:
                 print(end=" ")
-        print()
+       print()
