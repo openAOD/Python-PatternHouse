@@ -1,12 +1,12 @@
 print("Enter the number of rows: ")
 n = int(input())
-spaces = n + (n - 1)
-counter = 1
+spaces = 1
+counter = n
 for i in range(0, n):
     for k in range(0, spaces):
         print(" ", end="")
     for j in range(0, counter):
-        print("*", end=" ")
-    counter = counter + 2
+        print(counter, end=" ")
+    counter = counter - 1
     print()
-    spaces = spaces - 2
+    spaces = spaces + 1

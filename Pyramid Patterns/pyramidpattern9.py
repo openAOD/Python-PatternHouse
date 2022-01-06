@@ -5,8 +5,8 @@ counter = n
 for i in range(0, n):
     for k in range(0, spaces):
         print(" ", end="")
-    for j in range(0, counter):
-        print("*", end=" ")
+    for j in range(counter, 0, -1):
+        print(chr(counter+64), end=" ")
     counter = counter - 1
     print()
     spaces = spaces + 1

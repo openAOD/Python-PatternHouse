@@ -6,7 +6,7 @@ for i in range(0, n):
     for k in range(0, spaces):
         print(" ", end="")
     for j in range(0, counter):
-        print("*", end=" ")
+        print(counter, end=" ")
     counter = counter + 2
     print()
     spaces = spaces - 2
