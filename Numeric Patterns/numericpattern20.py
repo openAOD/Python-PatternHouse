@@ -11,10 +11,10 @@ for i in range(0,height) :
         
     print()
     
-// Sample Input :-
-// Output :- 5
-// 0 1 0 1 0
-// 0 0 0 0 0
-// 0 1 0 1 0
-// 0 0 0 0 0
-// 0 1 0 1 0
+# Sample Input :-
+# Output :- 5
+# 0 1 0 1 0
+# 0 0 0 0 0
+# 0 1 0 1 0
+# 0 0 0 0 0
+# 0 1 0 1 0
