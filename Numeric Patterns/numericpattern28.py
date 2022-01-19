@@ -7,11 +7,11 @@ for i in range(height,0,-1) :
         
     print()
 
-// Sample Input :- 5
-// output :-
-// 5
-// 5 4
-// 5 4 3
-// 5 4 3 2 
-// 5 4 3 2 1
+# Sample Input :- 5
+# output :-
+# 5
+# 5 4
+# 5 4 3
+# 5 4 3 2 
+# 5 4 3 2 1
 
