@@ -13,10 +13,10 @@ for i in range(1,height+1) :
         
     print()
     
-// Sample Input :- 5
-// Output :-
-//         1 A
-//       2 2 B B
-//     3 3 3 C C C
-//   4 4 4 4 D D D D
-// 5 5 5 5 5 E E E E E
+# Sample Input :- 5
+# Output :-
+#         1 A
+#       2 2 B B
+#     3 3 3 C C C
+#   4 4 4 4 D D D D
+# 5 5 5 5 5 E E E E E
