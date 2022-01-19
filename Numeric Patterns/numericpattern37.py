@@ -12,11 +12,11 @@ for i in range(1,height+1) :
         
     print()
 
-// Sample Input :- 5
-// Output :-
-//  1
-//  2  4
-//  3  6  9
-//  4  8 12 16
-//  5 10 15 20 25 
+# Sample Input :- 5
+# Output :-
+#  1
+#  2  4
+#  3  6  9
+#  4  8 12 16
+#  5 10 15 20 25 
 
