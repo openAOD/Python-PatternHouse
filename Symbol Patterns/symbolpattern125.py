@@ -4,7 +4,7 @@ for i in range(1,height+1):
 
     for j in range(1,height+1):
 
-        if(i == height or j == height or i == j):
+        if(i == height or j == 1 or i == height-j+1):
             print("*",end=" ")
 
         else:
