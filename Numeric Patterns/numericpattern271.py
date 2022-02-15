@@ -12,6 +12,7 @@ for i in range(1,no+1):
 
 # Sample Input :- 3
 #                 2
+# Output :-
 # 1 
 # 2 2 
 # 3 3 3 
