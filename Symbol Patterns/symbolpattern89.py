@@ -1,4 +1,4 @@
-[14:17, 31/01/2022] Mahak Garg: height = int(input())
+height = int(input())
 
 for i in range(1,height+1):
 
