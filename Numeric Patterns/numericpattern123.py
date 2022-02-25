@@ -7,7 +7,7 @@ for i in range(1,height):
         print(end="  ")
 
     for j in range(height-i,height):
-        print(i,end=" ")
+        print(c,end=" ")
 
     c += 1
     print()
