@@ -22,7 +22,7 @@ for i in range(height-1,0,-1):
 
     print()
 
-# Sample Input :- 5
+# Sample Input :- 4
 # Output :-
 #       A 
 #     A B 
