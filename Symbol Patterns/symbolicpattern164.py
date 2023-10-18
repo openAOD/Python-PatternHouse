@@ -4,6 +4,7 @@ try:
 except ValueError:
     print("!! Invalid input, defaults are being used !!")
     w = 5
+    c = '*'
 
 
 if len(c) == 0: c = '*'
@@ -14,3 +15,13 @@ def gen_pattern_164(w:int,char:str) -> str:
     return "\n".join(s)
 
 print(gen_pattern_164(w,c))
+
+"""
+Number of chars in first line (default `5`): 5 
+Enter the character for the pattern (default `*`): *
+*****
+  ***
+    *
+  ***
+*****
+"""
